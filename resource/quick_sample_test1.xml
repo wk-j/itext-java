@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+  <data name="DATE">
+    <text>08/12/2016</text>
+    <text>16/01/2017</text>
+  </data>
+  <data name="END_USER_ADDRESS">
+    <text>Angela Merkel
+To the att. of Angela Merkel
+059-X025 KucheMacherStraße
+71060 Sandelfängen Germany</text>
+  </data>
+  <data name="FAX">
+    <text>+32 92 70 33 75</text>
+  </data>
+  <data name="HEADER">
+    <text>iText Software BVBA
+Business center 'De Punt', Kerkstraat 108
+9050 Gent (Gentbrugge), Belgium
+T: +32 92 98 02 31
+F: +32 92 70 33 75
+E: sales.isb@itextpdf.com
+W: www.itextpdf.com
+VAT: BE 0838.649.627
+RPR Gent, afdeling Gent</text>
+  </data>
+  <data name="LOGO">
+    <image>
+      <base64>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</base64>
+    </image>
+  </data>
+  <data name="TABLE">
+    <table>
+      <row>
+        <cell>Description</cell>
+        <cell>Quantity</cell>
+        <cell>Unit price</cell>
+        <cell>Discount</cell>
+        <cell>Total</cell>
+      </row>
+      <row>
+        <cell></cell>
+        <cell></cell>
+        <cell>EUR</cell>
+        <cell>%</cell>
+        <cell>EUR</cell>
+      </row>
+      <row>
+        <cell>iText 7 Core Java - Production End-User Device Unlimited License
+For iText Core Version 7.0
+1 License per Application. "Insert Application Name" is the specific
+application name for this license.</cell>
+        <cell>1.00 Desktop
+Application(s)</cell>
+        <cell>€ 60 750,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 60 750,00</cell>
+      </row>
+      <row>
+        <cell>Updates and Support - iText 7 Core Java - Production End-User
+Device Unlimited
+For iText Core Version 7.0
+Technical Support, Upgrades and Updates during 12 Months. Renewed on an
+Annual basis.</cell>
+        <cell>1.00 Support
+Year(s)</cell>
+        <cell>€ 12 150,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 12 150,00</cell>
+      </row>
+      <row>
+        <cell>iText 7 Core Java - Non-Production End-User Device License
+For iText Core Version 7.0
+Perpetual License - Unlimited use in Time - Unlimited Users and PDF's
+1 License per Desktop, Laptop or Mobile Device</cell>
+        <cell>5.00 Desktop(s)</cell>
+        <cell>€ 110,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 550,00</cell>
+      </row>
+      <row>
+        <cell>Updates and Support - iText 7 Core Java - Non-Production End-
+User Device
+For iText Core Version 7.0
+Technical Support and Updates are included</cell>
+        <cell>1.00 Support
+Year(s)</cell>
+        <cell>€ 99,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 99,00</cell>
+      </row>
+      <row>
+        <cell>iText 7 Core Java - Production Server License
+For iText Core Version 7.0
+Perpetual License - Unlimited use in Time - Unlimited Users and PDF's
+1 License per Server, Virtual Machine or Node</cell>
+        <cell>1.00 Server(s)</cell>
+        <cell>€ 2 200,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 2 200,00</cell>
+      </row>
+      <row>
+        <cell>Updates and Support - iText 7 Core Java - Production Server
+For iText Core Version 7.0
+Technical Support, Upgrades and Updates during 12 Months. Renewed on an
+Annual basis.</cell>
+        <cell>1.00 Support
+Year(s)</cell>
+        <cell>€ 440,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 440,00</cell>
+      </row>
+      <row>
+        <cell>iText 7 Core Java - Non-Production Server License
+For iText Core Version 7.0
+Perpetual License - Unlimited use in Time - Unlimited Users and PDF's
+1 License per Server, Virtual Machine or Node</cell>
+        <cell>1.00 Server(s)</cell>
+        <cell>€ 1 100,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 1 100,00</cell>
+      </row>
+      <row>
+        <cell>Updates and Support - iText 7 Core Java - Non-Production Server</cell>
+        <cell>1.00 Support</cell>
+        <cell>€ 220,00</cell>
+        <cell>0.00%</cell>
+        <cell>€ 220,00</cell>
+      </row>
+      <row>
+        <cell>For iText Core Version 7.0
+Technical Support and Updates are included</cell>
+        <cell>Year(s)</cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+      </row>
+    </table>
+  </data>
+  <data name="TELEPHONE">
+    <text>+32 92 98 02 31</text>
+  </data>
+  <data name="TOTAL">
+    <text>77 509.00</text>
+  </data>
+  <data name="TOTAL_COLUMN">
+    <table>
+      <row>
+        <cell>€ 60 750,00</cell>
+      </row>
+      <row>
+        <cell>€ 12 150,00</cell>
+      </row>
+      <row>
+        <cell>€ 550,00</cell>
+      </row>
+      <row>
+        <cell>€ 99,00</cell>
+      </row>
+      <row>
+        <cell>€ 2 200,00</cell>
+      </row>
+      <row>
+        <cell>€ 440,00</cell>
+      </row>
+      <row>
+        <cell>€ 1 100,00</cell>
+      </row>
+      <row>
+        <cell>€ 220,00</cell>
+      </row>
+      <row>
+        <cell></cell>
+      </row>
+    </table>
+  </data>
+  <data name="VAT">
+    <text>BE 0838.649.627</text>
+    <text>BE 0838.649.627</text>
+  </data>
+</elements>

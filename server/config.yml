@@ -1,0 +1,15 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
+  adminConnectors:
+    - type: http
+      port: 8081
+logging:
+  level: INFO
+workDirectory:
+  path: /Users/wk/GitHub/ItextJava/.working
+  cleanupPolicy:
+    maxSize: 5GB
+    maxAge: 30d
+    interval: 12h
