@@ -17,5 +17,6 @@
         "dist": true,
         "build": true,
         ".cache": true
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
