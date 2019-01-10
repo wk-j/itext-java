@@ -19,7 +19,7 @@
             <groupId>com.itextpdf</groupId>
             <artifactId>itextpdf</artifactId>
             <version>5.0.6</version>
-            <scope>comile</scope>
+            <scope>compile</scope>
         </dependency>
 
     </dependencies>

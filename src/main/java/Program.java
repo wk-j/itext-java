@@ -5,6 +5,6 @@ public class Program {
     }
 
     void a() {
-        File f = new File();
+        // File f = new File();
     }
 }
